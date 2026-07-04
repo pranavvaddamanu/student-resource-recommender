@@ -1,7 +1,7 @@
 # 🎓 Student Resource Recommendation System
 
 An end-to-end machine learning recommendation system that generates personalized learning resource recommendations for students using the Open University Learning Analytics Dataset (OULAD). The project combines feature engineering, a LightGBM classification model, and an interactive Streamlit dashboard to recommend unseen learning resources based on student characteristics, historical learning behaviour, and resource attributes.
-
+URL: https://student-resource-recommender-pjuwgpka6cnfkzwwzgdezz.streamlit.app/
 ---
 
 ## 📌 Project Overview
@@ -226,6 +226,14 @@ streamlit run app.py
 * User authentication and persistent recommendation history
 
 ---
+SCREENSHOTS:
+<img width="1912" height="863" alt="image" src="https://github.com/user-attachments/assets/e7301439-9dcf-4ee7-8acf-8c01659b4f38" />
+<img width="1877" height="680" alt="image" src="https://github.com/user-attachments/assets/99ba9510-389e-40e7-b1e1-b175a82fb5f1" />
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/e246a624-adbc-47aa-892a-32a6e1d99a48" />
+<img width="1907" height="847" alt="image" src="https://github.com/user-attachments/assets/fbe83250-65f1-4dcf-a6f9-803d7c1ccd67" />
+
+
+
 
 ---
 
