@@ -1,10 +1,10 @@
-# 🎓 Student Resource Recommendation System
+#  Student Resource Recommendation System
 
 An end-to-end machine learning recommendation system that generates personalized learning resource recommendations for students using the Open University Learning Analytics Dataset (OULAD). The project combines feature engineering, a LightGBM classification model, and an interactive Streamlit dashboard to recommend unseen learning resources based on student characteristics, historical learning behaviour, and resource attributes.
 URL: https://student-resource-recommender-pjuwgpka6cnfkzwwzgdezz.streamlit.app/
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Traditional learning platforms often present the same learning materials to every student. This project demonstrates how machine learning can be used to personalize learning experiences by predicting which learning resources a student is most likely to interact with next.
 
@@ -12,7 +12,7 @@ Given a student's academic profile, historical interactions, and learning prefer
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Personalized Top-K resource recommendations
 * LightGBM-based recommendation model
@@ -27,7 +27,7 @@ Given a student's academic profile, historical interactions, and learning prefer
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 This project uses the **Open University Learning Analytics Dataset (OULAD)**.
 
@@ -42,7 +42,7 @@ Data sources used include:
 
 ---
 
-## 🧠 Feature Engineering
+##  Feature Engineering
 
 Several groups of features were created before model training.
 
@@ -128,7 +128,7 @@ Resources are ranked according to these predicted probabilities, and the Top-K r
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Metric      |  Score |
 | ----------- | -----: |
@@ -142,7 +142,7 @@ Resources are ranked according to these predicted probabilities, and the Top-K r
 
 ---
 
-## 🖥️ Streamlit Dashboard
+##  Streamlit Dashboard
 
 The application includes:
 
@@ -156,7 +156,7 @@ The application includes:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Student-Resource-Recommender/
@@ -181,7 +181,7 @@ Student-Resource-Recommender/
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 Clone the repository:
 
@@ -217,7 +217,7 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Temporal or leave-one-out evaluation for recommendation metrics
 * Cold-start recommendation support for new students
@@ -237,7 +237,7 @@ SCREENSHOTS:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Pranav Vaddamanu**
 
